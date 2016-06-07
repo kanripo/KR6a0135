@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:32:39.689391
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:44
 #+TITLE: 施食獲五福報經
 #+PROPERTY: CBETA_ID T02n0132b
 #+PROPERTY: ID KR6a0135
